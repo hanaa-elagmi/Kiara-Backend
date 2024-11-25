@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI-Matrial\\projects\\e-commerce Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\entities\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\entities\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\interfaces\\ifavourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\interfaces\\ifavourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\entities\\favouriteitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\entities\\favouriteitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\controllers\\favouritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\controllers\\favouritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|d:\\iti-matrial\\projects\\e-commerce back\\e-commerce\\repositories\\favouriterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C8249-EC11-4272-AFA6-FB1BD7368838}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\repositories\\favouriterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "e-commerce\\appsettings.json",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\appsettings.json",
+              "RelativeToolTip": "e-commerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T22:54:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Program.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Program.cs",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Program.cs",
+              "RelativeToolTip": "e-commerce\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:02:43.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FavouriteController.cs",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Controllers\\FavouriteController.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Controllers\\FavouriteController.cs",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Controllers\\FavouriteController.cs",
+              "RelativeToolTip": "e-commerce\\Controllers\\FavouriteController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:59:24.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavouriteRepo.cs",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Repositories\\FavouriteRepo.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Repositories\\FavouriteRepo.cs",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Repositories\\FavouriteRepo.cs",
+              "RelativeToolTip": "e-commerce\\Repositories\\FavouriteRepo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:52:37.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFavourite.cs",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Interfaces\\IFavourite.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Interfaces\\IFavourite.cs",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Interfaces\\IFavourite.cs",
+              "RelativeToolTip": "e-commerce\\Interfaces\\IFavourite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:51:15.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavouriteItems.cs",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Entities\\FavouriteItems.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Entities\\FavouriteItems.cs",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Entities\\FavouriteItems.cs",
+              "RelativeToolTip": "e-commerce\\Entities\\FavouriteItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:02:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Favourite.cs",
+              "DocumentMoniker": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Entities\\Favourite.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Entities\\Favourite.cs",
+              "ToolTip": "D:\\ITI-Matrial\\projects\\e-commerce Back\\e-commerce\\Entities\\Favourite.cs",
+              "RelativeToolTip": "e-commerce\\Entities\\Favourite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:01:26.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
